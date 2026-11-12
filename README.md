@@ -1,4 +1,4 @@
-# fastapi-docs-rag
+# toutiao-news-backend
 # 头条新闻后端
 
 FastAPI + MySQL + Redis 的新闻资讯后端，包含分类、列表、详情、相关推荐、收藏、浏览历史、用户注册登录。
